@@ -13,7 +13,7 @@ export default function App() {
 
 
 
-  const API_KEY = "e61fd350bc694fbabf4160224232809";
+  const API_KEY = "b16e11e8b15149179a4114245243101";
   const API_ENDPOINT = "https://api.weatherapi.com/v1/current.json";
 
 
